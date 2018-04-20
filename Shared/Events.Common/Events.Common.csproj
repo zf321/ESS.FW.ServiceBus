@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ESS.Shared.Events.Common</AssemblyName>
+    <RootNamespace>ESS.Shared.Events.Common</RootNamespace>
   </PropertyGroup>
 
 </Project>
