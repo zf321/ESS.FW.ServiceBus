@@ -8,7 +8,7 @@
     <Description>ESS Frameworks</Description>
     <PackageTags>ESS Frameworks</PackageTags>
     <Authors>ESS</Authors>
-    <RepositoryUrl>https://github.com/zf321/ESS.FW.ServiceBus</RepositoryUrl>
+    <projectUrl>https://github.com/zf321/ESS.FW.ServiceBus</projectUrl>
     <RepositoryType>git</RepositoryType>
     <Copyright>Copyright 2015-2018 </Copyright>
   </PropertyGroup>
